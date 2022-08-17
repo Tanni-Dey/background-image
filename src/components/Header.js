@@ -6,7 +6,7 @@ export default class Header extends Component {
       <div>
         <header className="text-white text-center">
           <img
-            alt="serdar budak"
+            alt=""
             src="https://www.serdarbudak.com.tr/_next/static/images/logoW-9420a2d091ff277f3f95224812d88adf.png"
             width="80"
             className="mb-4"
